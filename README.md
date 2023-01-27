@@ -1,1 +1,1 @@
-Hi! I'm Mike Linarello, currently a software enginnering student with Kenzie Academy. 
+Hi! I'm Mike Linarello, a recent graduate of Kenzie Academy Software Engineering program out of Southern New Hampshire University.
